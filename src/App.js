@@ -9,7 +9,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Dashboard/>}/>
-        <Route path="*" element={<Pagenotfound/>}/>
       </Routes>
     </BrowserRouter>
   );
