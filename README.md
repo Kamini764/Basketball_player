@@ -1,3 +1,74 @@
+ 
+ Project's Title:-
+   Basketball player card
+
+ Project Description:-
+    1. Developed a React Component:
+    ○ Created a BasketballPlayerCard component that displays information
+    about a basketball player.
+    ○ The component is including the player's name, image, position, and stats
+    (e.g., points per game, assists per game, and rebounds per game).
+
+    2. Styling:
+    ○ Applied basic styling to make the card visually appealing.
+    ○ the component is responsive and looking good on different screen
+    sizes.
+
+3. Technologies used:-
+    React
+    CSS
+    HTML
+
+4. How to Install and Run the Project:-
+    By using npm start
+
+5. How to Use the Project:-
+   when you will hover on the card , the information of player will be displayed.
+
+
+
+............................................................xxx...........................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
